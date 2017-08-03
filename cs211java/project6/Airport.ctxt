@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Airport
+comment0.text=\n\ Write\ a\ description\ of\ class\ Airport\ here.\n\n\ @author\ (Heng\ Li)\n\ @version\ (4-07-2017)\n
+comment1.params=airport_code
+comment1.target=Airport(int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Airport\n
+comment2.params=
+comment2.target=Airport()
+comment3.params=code
+comment3.target=void\ setCode(int)
+comment4.params=
+comment4.target=int\ getCode()
+comment5.params=available_airport
+comment5.target=void\ addAvailable(int)
+comment6.params=available_airport
+comment6.target=void\ deleteAvailable(int)
+comment7.params=target
+comment7.target=boolean\ findAvailable(int)
+numComments=8

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Lab10
+comment0.text=\ Complete\ the\ linked\ list\ code\ for\ \n\n\ \ show()\ \ \ \ -\ traverse\ the\ list\ printing\ out\ the\ value\ in\ each\ node\n\ \ insert()\ \ -\ the\ values\ are\ to\ be\ inserted\ in\ increasing\ order\n\ \ remove()\ \ -\ remove\ the\ node\ from\ the\ list\ with\ the\ first\ occurrence\ of\ parameter\ value\n\ \n\ \ The\ C\ version\ of\ insert()\ and\ show()\ are\ contained\ in\ the\ file\ lab5a.c\ on\ the\ Notes\ page.\n\ \ The\ C\ version\ of\ remove()\ was\ to\ be\ written\ as\ part\ of\ Lab\ Exercise\ 6\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Lab10r
+comment0.text=\ Code\ to\ show\ and\ explore\ recursion\n\ \n\ The\ code\ also\ shows\ one\ approach\ at\ using\ a\ debug\ mode\n
+comment1.params=
+comment1.target=void\ debugOn()
+comment10.params=a\ b
+comment10.target=int\ greatestCommonDivisor(int,\ int)
+comment2.params=
+comment2.target=void\ debugOff()
+comment3.params=s
+comment3.target=void\ dprintln(java.lang.String)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment5.params=num
+comment5.target=int\ fact(int)
+comment6.params=num
+comment6.target=int\ fib(int)
+comment7.params=num
+comment7.target=boolean\ isPrime(int)
+comment8.params=m\ n
+comment8.target=boolean\ factorInRange(int,\ int)
+comment9.params=base\ exp
+comment9.target=int\ power(int,\ int)
+numComments=11
